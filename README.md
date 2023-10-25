@@ -2,7 +2,8 @@
 👀 I’m interested in Web Development, AI, ML, Backend Development, Graphic Designing, 3D Modeling, and UI/UX.
 🌱 I’m currently a BTech IIoT student, learning Java, C programming, and exploring the exciting fields of AI, ML, Graphic Designing, 3D Modeling, and UI/UX.
 💞️ I’m looking to collaborate on any Web Development, AI/ML, Graphic Designing, 3D Modeling, or UI/UX projects related to IIoT.
-📫 You can reach me through LinkedIn: [linkedin.com/in/shashikant-sharma-976444143]
+📫 You can reach me through 
+LinkedIn:linkedin.com/in/shashikant649
 
 And now, for a small joke:
 
