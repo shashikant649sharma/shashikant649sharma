@@ -5,7 +5,6 @@
 📫 You can reach me through 
 LinkedIn:linkedin.com/in/shashikant649
 
-And now, for a small joke:
 
 Why was the computer cold?
 
